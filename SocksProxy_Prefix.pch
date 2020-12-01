@@ -1,0 +1,13 @@
+/*
+ *  SocksProxy_Prefix.pch
+ *  SOCKS
+ *
+ *  Created by C. Bess on 9/5/10.
+ *  Copyright 2010 Christopher Bess. All rights reserved.
+ *
+ */
+
+#ifdef __OBJC__
+#import "UIDevice_Extended.h"
+#endif
+
